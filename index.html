@@ -33,11 +33,15 @@
 			    	color: #FFFFFF;
 			    	font-size: 30px;
 			}
-			.row {
-				display: flex;
-				width: 100%;
-				flex-direction: row;
-				justify-content: center;
+			.column {
+				float: left;
+				width: 50%;
+				padding: 5px;
+			}
+			.row::after {
+				content: "";
+				clear: both;
+				display: table;
 			}
 			figure {
 				margin: 0;
@@ -56,14 +60,16 @@
 		<div class="footer">
 			<p>Meet the team!</p>
 			<div class="row">
-				<figure>
-					<img src="Bailey.jpg">
-			    		<figcaption>Bailey Hurlburt</figcaption>
-        			</figure>
-				<figure>
-					 <img src="D929DE56-F5F9-48DB-B225-4EFF87ED44F6_1_105_c.jpeg">
-					 <figcaption>Najuf Malik</figcaption>
-				</figure>
+				<div class="column">
+					<figure>
+						<img src="Bailey.jpg" style="width:100%">
+						<figcaption>Bailey Hurlburt</figcaption>
+					</figure>
+					<figure>
+						 <img src="D929DE56-F5F9-48DB-B225-4EFF87ED44F6_1_105_c.jpeg" style="width:100%">
+						 <figcaption>Najuf Malik</figcaption>
+					</figure>
+				</div>
 			</div>
   	</body>
 </html>
