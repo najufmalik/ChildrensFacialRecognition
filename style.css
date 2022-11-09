@@ -69,3 +69,20 @@
 				background: #FDFDBD;
 				color: #B1AFFF;
 			}
+
+/* SCROLLBAR */
+
+::-webkit-scrollbar {
+    width: 8px; 
+    height: 20px;
+    background-color: #FDFDBD;
+}
+
+::-webkit-scrollbar-track {background-color: #FDFDBD; border-radius: 20px;}
+
+::-webkit-scrollbar-thumb {
+    background-color: #C8FFD4;
+    min-height: 35px;
+    min-width: 35px;
+    border-radius: 10px;
+}
