@@ -34,9 +34,17 @@
 			    	color: #FFFFFF;
 			    	font-size: 30px;
 			}
-			.container {
-				display: block;
-				float: left;
+			.row {
+				display: flex;
+				width: 100%;
+				flex-direction: row;
+				justify-content: center;
+			}
+			figure {
+				margin: 0;
+				margin-right: 20px;
+				width: 100px;
+				height: 100px;
 			}
 		</style>
 	</head>
@@ -47,9 +55,15 @@
 		</div>
 		<div class="footer">
 			<p>Meet the team!</p>
-			<div class="container"> 
-				<img src="Bailey.jpg"> 
+			<div class="row">
+				<figure>
+					<img src="Bailey.jpg">
+			    		<figcaption>Bailey Hurlburt</figcaption>
+        			</figure>
+				<figure>
+					 <img src="D929DE56-F5F9-48DB-B225-4EFF87ED44F6_1_105_c.jpegg">
+					 <figcaption>Najuf Malik</figcaption>
+				</figure>
 			</div>
-		</div>
   	</body>
 </html>
