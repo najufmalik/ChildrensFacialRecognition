@@ -55,6 +55,13 @@ iframe {
 	color: #B1AFFF;
 	font-style: italic;
 }
+.sources {
+	margin-left:250px; 
+	margin-right:250px;
+	color: black;
+	text-align: left;
+	font-size: 15px;
+}
 /* FOOTER */
 .footer {
 	padding: 3px;
