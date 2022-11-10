@@ -54,7 +54,7 @@ body {
 	margin-top: auto;
 	text-align: center;
 	background: #B8E8FC;
-	color: white;
+	color: black;
 	font-size: 30px;
 	/* text-shadow: 2px 2px 4px #000000; */
 }
@@ -108,7 +108,7 @@ figcaption {
 ::-webkit-scrollbar-track {background-color: #DCDCDC; border-radius: 20px;}
 
 ::-webkit-scrollbar-thumb {
-    background-color: #C8FFD4;
+    background-color: #B1AFFF;
     min-height: 35px;
     min-width: 35px;
     border-radius: 10px;
