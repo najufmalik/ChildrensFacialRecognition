@@ -33,8 +33,8 @@ body {
 	flex-direction: column;
 }
 .topic {
-	color: #C8FFD4;
-	text-align: left;
+	color: #B1AFFF;
+	text-align: center;
 	font-size: 25px;
 }
 .content {
@@ -98,10 +98,10 @@ figcaption {
 ::-webkit-scrollbar {
     width: 8px; 
     height: 20px;
-    background-color: #D3D3D3;
+    background-color: #DCDCDC;
 }
 
-::-webkit-scrollbar-track {background-color: #D3D3D3; border-radius: 20px;}
+::-webkit-scrollbar-track {background-color: #DCDCDC; border-radius: 20px;}
 
 ::-webkit-scrollbar-thumb {
     background-color: #B8E8FC;
