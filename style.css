@@ -81,11 +81,11 @@ body {
 figure {
 	margin: 0;
 	margin-right: 20px;
-	background: #B1AFFF;
+	background: #C8FFD4;
 }
 figcaption {
 	text-align: center;
-	color: #FFFFFF;
+	color: black;
 	font-size: 20px;
 	text-shadow: none;
 }
