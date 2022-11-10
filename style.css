@@ -40,7 +40,7 @@ body {
 	text-align: center;
 	background: #B8E8FC;
 	color: #FFFFFF;
-	font-size: 40px;
+	font-size: 30px;
 	text-shadow: 2px 2px 4px #000000;
 }
 /* photos of us */
@@ -72,6 +72,7 @@ figcaption {
 	text-align: center;
 	color: #FFFFFF;
 	font-size: 20px;
+	text-shadow: none;
 }
 /* END OF FOOTER */
 
