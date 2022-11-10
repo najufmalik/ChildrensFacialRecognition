@@ -33,13 +33,15 @@ body {
 	flex-direction: column;
 }
 .topic {
-	color: #B1AFFF;
-	text-align: center;
-	font-size: 30px;
+	color: #C8FFD4;
+	text-align: left;
+	font-size: 25px;
 }
 .content {
+	margin-left:200px; 
+	margin-right:50px;
 	color: black;
-	text-align: center;
+	text-align: left;
 	font-size: 20px;
 }
 /* FOOTER */
