@@ -38,7 +38,6 @@ body {
 	color: #B1AFFF;
 	text-align: left;
 	font-size: 25px;
-	text-indent: 80px;
 }
 
 .content {
@@ -47,6 +46,7 @@ body {
 	color: black;
 	text-align: left;
 	font-size: 20px;
+	text-indent: 80px;
 }
 /* FOOTER */
 .footer {
