@@ -27,7 +27,7 @@
 				margin-top: auto;
 			    	text-align: center;
 			    	background: #B8E8FC;
-			    	color: #FFFFFF;
+			    	color: #B1AFFF;
 			    	font-size: 30px;
 			}
 			body {
@@ -75,10 +75,10 @@
 ::-webkit-scrollbar {
     width: 8px; 
     height: 20px;
-    background-color: #FDFDBD;
+    background-color: #B8E8FC;
 }
 
-::-webkit-scrollbar-track {background-color: #FDFDBD; border-radius: 20px;}
+::-webkit-scrollbar-track {background-color: #B8E8FC; border-radius: 20px;}
 
 ::-webkit-scrollbar-thumb {
     background-color: #C8FFD4;
