@@ -35,7 +35,7 @@ body {
 .topic {
 	color: #B1AFFF;
 	text-align: center;
-	font-size: 20px;
+	font-size: 25px;
 }
 h2 {
 	text-indent: 80px;
@@ -45,7 +45,7 @@ h2 {
 	margin-right:200px;
 	color: black;
 	text-align: left;
-	font-size: 15px;
+	font-size: 20px;
 }
 /* FOOTER */
 .footer {
