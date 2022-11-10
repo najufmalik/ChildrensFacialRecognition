@@ -35,14 +35,14 @@ body {
 .topic {
 	color: #B1AFFF;
 	text-align: center;
-	font-size: 25px;
+	font-size: 20px;
 }
 .content {
 	margin-left:200px; 
 	margin-right:50px;
 	color: black;
 	text-align: left;
-	font-size: 20px;
+	font-size: 15px;
 }
 /* FOOTER */
 .footer {
