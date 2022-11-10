@@ -98,13 +98,13 @@ figcaption {
 ::-webkit-scrollbar {
     width: 8px; 
     height: 20px;
-    background-color: #B8E8FC;
+    background-color: #D3D3D3;
 }
 
-::-webkit-scrollbar-track {background-color: #B8E8FC; border-radius: 20px;}
+::-webkit-scrollbar-track {background-color: #D3D3D3; border-radius: 20px;}
 
 ::-webkit-scrollbar-thumb {
-    background-color: #C8FFD4;
+    background-color: #B8E8FC;
     min-height: 35px;
     min-width: 35px;
     border-radius: 10px;
