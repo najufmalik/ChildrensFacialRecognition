@@ -41,6 +41,7 @@ body {
 	background: #B8E8FC;
 	color: #FFFFFF;
 	font-size: 40px;
+	text-shadow: 2px 2px 4px #000000;
 }
 /* photos of us */
 .column {
