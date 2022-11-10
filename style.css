@@ -67,8 +67,8 @@ iframe {
 	padding: 5px;
 }
 .column img {
-	width: 350px;
-	height: 400px;
+	width: 250px;
+	height: 300px;
 	object-fit: contain;
 }
 .row {
