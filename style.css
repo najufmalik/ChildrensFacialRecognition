@@ -37,9 +37,12 @@ body {
 	text-align: center;
 	font-size: 20px;
 }
+h2 {
+	text-indent: 80px;
+}
 .content {
 	margin-left:200px; 
-	margin-right:50px;
+	margin-right:200px;
 	color: black;
 	text-align: left;
 	font-size: 15px;
