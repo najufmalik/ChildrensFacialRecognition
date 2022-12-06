@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 %matplotlib inline
 
 # Find one image to capture emotions
-test_image_one = plt.imread("\surprise\A1.png")
+test_image_one = plt.imread("\neutral\B1.png")
 emo_detector = FER(mtcnn=True)
 
 # Get the emotions found from the test image
