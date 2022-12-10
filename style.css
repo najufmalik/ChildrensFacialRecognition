@@ -40,6 +40,14 @@ body {
 	font-size: 25px;
 }
 
+.subtopic {
+	margin-left:200px; 
+	margin-right:200px;
+	color: #B8E8FC;
+	text-align: left;
+	font-size: 23px;
+}
+
 .content {
 	margin-left:200px; 
 	margin-right:200px;
