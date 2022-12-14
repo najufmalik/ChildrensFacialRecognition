@@ -60,7 +60,31 @@
 			<h1>Our Approach</h1>
 		</div>
 		<div class="content">
-			<p><br>We attempted to recreate an implementation for emotion detection by starting out with detecting faces in a given image. We took advantage of OpenCV along with Python and were able to detect any faces in an image. We had several options for facial detection yet we ended up going with Appearance-based detection.
+			<p><br>We attempted to recreate an implementation for emotion detection by starting out with detecting faces in a given image. </br>
+			<br>We took advantage of OpenCV along with Python and were able to detect any faces in an image and then make it greyscale by: </br>
+			<div class="row">
+				<div class="column">
+					<figure>
+						<img src="https://github.com/najufmalik/ChildrensFacialRecognition/blob/main/C1.png?raw=true" style="width:100%">
+					</figure>
+				</div>
+			</div>	
+			<br>We then were able to use OpenCV, specifically the cv2 python library in order to set a cascade to detect any potential faces in the image with: </br>
+			<div class="row">
+				<div class="column">
+					<figure>
+						<img src="https://github.com/najufmalik/ChildrensFacialRecognition/blob/main/C2.png?raw=true" style="width:100%">
+					</figure>
+				</div>
+				<div class="column">
+					<figure>
+						<img src="https://github.com/najufmalik/ChildrensFacialRecognition/blob/main/C3.png?raw=true" style="width=100%">
+					</figure>
+				</div>
+			</div>
+			<br>These were the initial steps in order to find a face in a given image. </br>
+			<br>We had several options for facial detection yet ended up going with Appearance-based detection.</br>
+			<br>The first thing we had to do to perform this kind of detection was to locate any facial landmarks within the face and plot them to later deform each of the landmarks as parts. </br>
 			</br></p>
 		</div>
 		<!-- start of results and comparisons -->
